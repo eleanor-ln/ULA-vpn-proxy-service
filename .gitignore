@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+.vs/
+assets/MakeIco/bin/
+assets/MakeIco/obj/
+assets/ula.ico
+fix_dynamic.ps1
