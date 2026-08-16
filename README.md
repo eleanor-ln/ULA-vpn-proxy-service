@@ -26,7 +26,7 @@
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Windows 10/11 x64
 - [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
