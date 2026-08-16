@@ -15,14 +15,14 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌐 **Virtual LAN** — create or join encrypted virtual networks instantly
-- 👥 **Peer discovery** — real-time list of connected devices with ping and IP
-- 🖥️ **CLI** — full control from any terminal via `ula` command
-- 🔔 **Toast notifications** — peer join/leave events in real time
-- 📋 **Activity logs** — real-time log viewer with export to file
-- 🌍 **Localization** — English and Russian interface
+-  **Virtual LAN** — create or join encrypted virtual networks instantly
+-  **Peer discovery** — real-time list of connected devices with ping and IP
+-  **CLI** — full control from any terminal via `ula` command
+-  **Toast notifications** — peer join/leave events in real time
+-  **Activity logs** — real-time log viewer with export to file
+-  **Localization** — English and Russian interface
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Quick Start
+##  Start
 
 1. Download `ULAProxy.exe` from [Releases](../../releases)
 2. Run it — `ula` CLI installs automatically to `C:\ULAProxy\` and is added to PATH
@@ -41,7 +41,7 @@
 
 ---
 
-## 💻 CLI Reference
+##  CLI Reference
 
 ```
 Window:
@@ -64,7 +64,7 @@ Info:
 
 ---
 
-## ⚙️ Window Behavior
+##  Window Behavior
 
 | Action | Result |
 |--------|--------|
